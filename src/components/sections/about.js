@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  // const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,6 +134,30 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
+            <p>
+              Hello! My name is Jenna, and I am a Stanford student studying Computer Science with a
+              concentration in Artificial Intelligence.
+            </p>
+
+            <p>
+              Before Stanford, I had the opportunity to intern for the digital weekly{' '}
+              <a href="https://airmail.news/">Air Mail</a> and was tasked with managing their
+              fledgling affiliate program. By the time I left for school, Air Mail saw an increased
+              $50K in affiliate sales MoM and 55+ new partners.
+            </p>
+
+            <p>
+              When I began my Stanford career, I enrolled in the introductory CS course, hoping to
+              understand the code that would have helped gather deep insights of Air Mail's
+              affiliate data. To my surprise, I not only loved studying CS but also excelled at it.
+            </p>
+
+            <p>
+              Fast-forward to today, and I can program in 7 different langugaes, built a custom
+              e-commerce website, and teach programming fundamentals at Stanford.
+            </p>
+          </div>
+          {/* <div>
             <p>
               Hello! My name is Brittany and I enjoy creating things that live on the internet. My
               interest in web development started back in 2012 when I decided to try editing custom
@@ -166,7 +190,7 @@ const About = () => {
 
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
+          </ul> */}
         </StyledText>
 
         <StyledPic>
