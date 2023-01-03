@@ -153,7 +153,7 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I can program in 7 different langugaes, built a custom
+              Fast-forward to today, and I can program in 7 different languages, built a custom
               e-commerce website, and teach programming fundamentals at Stanford.
             </p>
           </div>
