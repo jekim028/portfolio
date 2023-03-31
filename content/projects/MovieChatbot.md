@@ -4,9 +4,7 @@ title: 'Movie Recommendation Chatbot'
 github: 'https://github.com/bperk25/ChatBot/blob/main/README.md'
 external: ''
 tech:
-  - React Native
-  - Javascript
-  - HTML/CSS
+  - Python
 company: ''
 showInProjects: true
 ---
