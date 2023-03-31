@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Jenna, and I am a Stanford student studying Computer Science with a
-              concentration in Artificial Intelligence.
+              concentration in Human Computer Interaction.
             </p>
 
             <p>
