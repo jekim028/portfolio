@@ -3,7 +3,7 @@ date: '2021-07-01'
 title: 'Operating Systems Manager'
 company: 'Rey Sol Coffee Roasters'
 location: 'Ridgewood, NJ'
-range: 'January - July 2021'
+range: 'January 2021 - July 2021'
 url: 'https://reysolcoffee.com/'
 ---
 

@@ -3,7 +3,7 @@ date: '2022-09-01'
 title: 'E-Commerce Intern'
 company: 'Califia Farms'
 location: 'Los Angeles, CA'
-range: 'June - September 2022'
+range: 'June 2022 - September 2022'
 url: 'https://www.califiafarms.com/'
 ---
 
