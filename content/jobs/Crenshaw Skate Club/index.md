@@ -1,5 +1,5 @@
 ---
-date: '2022-06-01'
+date: '2023-01-01'
 title: 'Front-End Developer'
 company: 'Crenshaw Skate Club'
 location: 'Los Angeles, CA'
