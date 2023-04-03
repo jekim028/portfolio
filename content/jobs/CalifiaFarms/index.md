@@ -7,6 +7,5 @@ range: 'June - September 2022'
 url: 'https://www.califiafarms.com/'
 ---
 
-- Analyzed digital strategy, sales data, and competitive landscape of top grocery accounts; presented and discussed key areas of opportunity with senior account managers
-- Pitched marketing campaign for new product by modeling social media and market trends; awarded approval of CEO
-- Participated in sales meetings with strategic partners such as Walmart and Amazon Fresh
+- Analyzed digital strategy, sales data, and competitive landscape of top grocery accounts for leading plant-based milk beverage company Califia Farms; presented and discussed key areas of opportunity with senior account managers
+- Pitched approved celebrity marketing campaign for launch of new product by modeling social media and market trends in the natural grocery space

@@ -7,6 +7,6 @@ range: 'December 2022 - Present'
 url: 'https://cs.stanford.edu/'
 ---
 
-- Lead weekly class of ~10 students in teaching concepts from Stanford's introductory CS courses (i.e. arrays, recursion, abstract data types, algorithmic analysis)
-- Support each student through the course by grading assignments/exams and provide extensive feedback through weekly individual meetings
-- Debug code and solidify student understanding of material in office hours
+- Lead weekly class of 10 students in teaching concepts from Stanford’s introductory CS courses, including arrays,
+  recursion, abstract data types, and algorithmic analysis
+- Debug code, grade assignments and exams, and solidify student understanding of course material during office hours and biweekly 1-on-1 meetings

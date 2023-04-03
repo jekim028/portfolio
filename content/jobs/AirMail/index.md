@@ -7,7 +7,6 @@ range: 'July 2020 - July 2021'
 url: 'https://airmail.news/shop'
 ---
 
-- Developed and launched the curated e-commerce storefront Air Supply, realizing an increased $50K in MoM affiliate sales
-- Managed affiliate partner relationships, including negotiating exclusive commission rates with prominent partners (ie. Net-A-Porter, Shopbop) and acquiring 60+ strategic partnerships
-- Tabulated affiliate revenue data across various network platforms into readable spreadsheet for company use
+- Developed and launched curated e-commerce storefront for former editor-in-chief of Vanity Fair’s digital weekly, boosting MoM affiliate sales by $50K
+- Negotiated 150%+ commission rate increase with prominent partners such as Net-A-Porter; acquired 60+ strategic affiliate partners, including Nordstrom and Saks
 - Presented analysis of storefront performance and key recommendations to CEO, CMO, and Editor-in-Chief
