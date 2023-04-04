@@ -6,9 +6,9 @@ external: ''
 tech:
   - React Native
   - Javascript
-  - HTML/CSS
+  - CSS
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Built mobile application compatible on iOS/Android that utilizes Spotify and DALL-E APIs to create

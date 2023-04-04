@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Digital Grocery Analysis'
 cover: './califia-capstone.png'
 external: ''
